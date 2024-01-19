@@ -3,7 +3,7 @@ authors = ["RM"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Mdbook Template"
+title = "經世濟民"
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
